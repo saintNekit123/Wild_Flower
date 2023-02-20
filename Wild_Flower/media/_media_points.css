@@ -1,0 +1,61 @@
+@media (max-width: 1255px) {
+    .points__list {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .points_list__item {
+        text-align: center;
+        max-width: 140px;
+    }
+
+    .points_item_title {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .points_item__descr {
+        font-size: 14px;
+        line-height: 19px;
+    }
+
+    .point__button {
+        background-image: none;
+    }
+
+    .point__up {
+        background-image: none;
+    }
+}
+
+@media (max-width: 768px) {
+    
+    .points__title {
+        font-size: 32px;
+        line-height: 36px;
+    }
+}
+
+@media (max-width: 600px) {
+    .point_item__img {
+        margin-bottom: 10px;
+    }
+}
+@media (max-width: 450px) {
+ 
+
+    .points_list__item:not(:last-child) {
+        margin-bottom: 24px;
+    }
+
+    .points__title {
+        margin-bottom: 8px;
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 32px;
+    }
+
+    
+}
+

@@ -1,0 +1,53 @@
+@media (max-width: 840px) {
+    #forma__open {
+        padding: 60px 36px 64px 49px;
+    }
+
+    .forma__title {
+        font-size: 32px;
+        line-height: 36px;
+    }
+    
+    .forma__descr {
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .forma__descr-approval {
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    #forma__btn {
+        padding: 18px 41px;
+        font-size: 20px;
+        line-height: 22px;
+    }
+}
+
+@media (max-width: 320px) {
+    #forma__open {
+        padding: 56px 15px 132px 15px;
+        height: 105%;
+        width: 105%;
+    }
+
+    .star_small {
+        left: 20px;
+    }
+
+    .forma__title {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .forma__descr {
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .forma__descr-approval {
+        font-size: 10px;
+        line-height: 11px;
+    }
+}

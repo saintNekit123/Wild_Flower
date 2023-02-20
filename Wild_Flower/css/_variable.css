@@ -1,0 +1,14 @@
+:root {
+
+    /* Цвета */
+    --black: #161616;
+    --brown-light:#B8926B;
+    --light-gray:#69766D;
+    --brow-white: #D8BFA9;
+    --white-gray: #F6F6F5;
+
+    /* Container */
+    --container-max-width: 1920px;
+    --container-padding: 405px;
+
+}
